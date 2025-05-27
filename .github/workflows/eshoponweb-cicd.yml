@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-Jekson
   LOCATION: eastus
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: /subscriptions/b053c566-4509-4ddb-b871-9edd99b65015
+  SUBSCRIPTION-ID: b053c566-4509-4ddb-b871-9edd99b65015
   WEBAPP-NAME: eshoponweb-Jekson
 
 
